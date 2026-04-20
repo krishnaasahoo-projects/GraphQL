@@ -1,0 +1,13 @@
+#type Query{
+##    http://localhost:8080/sayHello
+#    sayHello : String
+#
+##    http://localhost:8080/sayHello/{name}
+#    sayHelloTo(name:String) : String
+#
+#    sayHelloToAge(age:Int!) : String
+#
+#    sayHelloThree(name:String) : String
+#
+#    random : Int!
+#}
