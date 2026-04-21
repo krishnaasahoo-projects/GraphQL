@@ -1,6 +1,6 @@
-package com.learning.graphql_playground.sec01.lec03.service;
+package com.learning.graphql_playground.sec01.lec04.service;
 
-import com.learning.graphql_playground.sec01.lec03.dto.Customer;
+import com.learning.graphql_playground.sec01.lec04.dto.Customer;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 
