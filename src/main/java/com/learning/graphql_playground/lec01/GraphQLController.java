@@ -7,6 +7,10 @@ import reactor.core.publisher.Mono;
 
 import java.util.concurrent.ThreadLocalRandom;
 
+/**
+ *  Introduction to Graphql with Schema.graphqls mapping
+ *
+ */
 @Controller
 public class GraphQLController {
 
