@@ -10,6 +10,10 @@ import org.springframework.stereotype.Controller;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
+/**
+ * Introduction to GraphQL Scalar Type , Special Types
+ *
+ */
 @Controller
 @RequiredArgsConstructor
 public class CustomerController {
