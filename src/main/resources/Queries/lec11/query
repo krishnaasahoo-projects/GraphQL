@@ -1,0 +1,16 @@
+{
+  search{
+    ... on Fruit{
+      expiryDate
+      description
+    }
+    ... on Electronics{
+      description
+      price
+    }
+    ... on book{
+      author
+      title
+    }
+  }
+}

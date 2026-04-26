@@ -4,7 +4,7 @@ import graphql.scalars.ExtendedScalars;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "com.learning.graphql_playground.lec09")
+@SpringBootApplication(scanBasePackages = "com.learning.graphql_playground.lec13")
 public class GraphqlPlaygroundApplication {
 
 	public static void main(String[] args) {
